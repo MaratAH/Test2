@@ -5,7 +5,6 @@ public class Perimeter {
         int base = 1;
         int edge = 4;
         System.out.println("Периметр треугольника " + getPerimeterTriangle(8, 5));
-        System.out.println("Периметр квадрата " + getPerimeterSquare(4));
         System.out.println("Периметр окружности " + getPerimeterCircle(10));
     }
 
